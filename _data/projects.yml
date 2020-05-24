@@ -1,8 +1,20 @@
-- layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+- layout: left
+  name: Discord Bot
+  link: www.glennprince.com/blog/creating-a-discord-bot-part-01/
+  github: GlennPrince/DNetBotTemplate
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    A Discord Bot built using a micro-services architecture on as much serverless components as possible.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    A Simple Discord Bot using the Discord .NET Bot library and Dot Net Core. This bot is built with a microservices architecture using a range of Azure Services such as Functions, Table Storage, Queue Storage etc. I'm trying to build this bot in a modular fashion with the basic functionality provide and documented in such a way as to be expandable by others.
+    For more information about the bot, and to follow it's progress, I am documenting it progress beginning with [a microservices discord bot - part 1](https://www.glennprince.com/blog/creating-a-discord-bot-part-01/).
+
+- layout: left
+  name: Contact Form API
+  link: https://www.glennprince.com/article/contact-form-using-azure-functions/
+  github: GlennPrince/StaticWebFunctions
+  quote: >
+    A simple contact form API built on Azure Functions for my static website
+  description: | # this will include new lines to allow paragraphs
+    This is a simple API I built using Azure Functions to add contact form functionality to my static website.
+
+

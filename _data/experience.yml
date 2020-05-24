@@ -1,4 +1,4 @@
-- layout: left
+- layout: top-middle
   company: Queensland Department of Education
   link: education.qld.gov.au
   job_title: Enterprise Architect
@@ -12,7 +12,7 @@
     * Developed the business case for the Human Capital Management program within Government frameworks
     * Developed and delivered presentations to key stakeholders and executives, driving better engagement.
 
-- layout: left
+- layout: top-middle
   company: Department of Child Safety, Youth and Women
   link: www.csyw.qld.gov.au
   job_title: Enterprise Architect
@@ -27,7 +27,7 @@
     * Designed and deployed an identity broker using Azure AD and Azure B2C that secured an application to assist with finding missing children in care for Police.
     * Provide technical leadership through research, mentoring, knowledge sharing and improvement activities
 
-- layout: left
+- layout: top-middle
   company: Queensland Government Chief Information Office
   link: www.qgcio.qld.gov.au
   job_title: Enterprise Architect
@@ -39,7 +39,7 @@
 
     * Lead the adoption of the citizen identity management system across Queensland Government departments.
 
-- layout: left
+- layout: top-middle
   company: Department of Communities, Child Safety and Disability Services
   link: www.csyw.qld.gov.au
   jobs:
@@ -60,7 +60,7 @@
     * Saved spend on the phone system through implementing the first Unified Communications platform
     * Implemented a Retail Point of Sale (POS) system for remote communities that processes $25M+ in turnover
 
-- layout: left
+- layout: top-middle
   company: Queensland Health
   link: www.health.qld.gov.au
   job_title: Oncology Systems Administrator
@@ -69,11 +69,11 @@
    Queensland Health provides medical care and support for the citizens of Queensland. The Oncology Department provides medical and radiation therapy to cancer patients.
   description: | # this will include new lines to allow paragraphs
     Reporting to the Director of Cancer Control Team, I was responsible for the administration and support of the Departments Medical Oncology treatment system.
-
+    
     * Developed documentation for a variety of aspects of the application and process, including ITIL based change processes, user training guides, maintenance plans and disaster recovery plans.
     * Delivered presentations on the use of the information system to large groups of clinicians, nurses and pharmacists.
 
-- layout: left
+- layout: top-middle
   company: Various other Companies
   link: www.glennprince.com
   job_title: Network Administrator / IT Support

@@ -5,24 +5,17 @@ favicon: images/favicon.ico
 # Personal info
 name: Glenn Prince
 title: Solution Architect
-email: glenn
+email: glenn@glennprince.com
 website: www.glennprince.com
 
 # Social links
 twitter_username: Glenn_Prince
 github_username:  GlennPrince
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: chillwildlife
 linkedin_username: glennprince
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
-# about_profile_image: images/profile.jpg
+about_title: About Me
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Glenn. I am an experienced, pragmatic Solutions Architect that has helped organisations with transformative projects for the last few years. With diverse experience across development and infrastructure, I am passionate about learning new technologies and solving complex problems. I enjoy writing about my experiences and pretending to know how to code.
 
