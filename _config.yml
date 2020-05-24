@@ -13,6 +13,9 @@ twitter_username: Glenn_Prince
 github_username:  GlennPrince
 linkedin_username: glennprince
 
+# Google Analytics and Tag Manager
+google_analytics: "UA-109834315-2"
+
 # About Section
 about_title: About Me
 # about_profile_image: images/profile.jpg
