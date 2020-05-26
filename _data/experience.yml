@@ -1,4 +1,4 @@
-- layout: top-left
+- layout: left
   company: Queensland Department of Education
   link: https://education.qld.gov.au
   job_title: Enterprise Architect
@@ -12,7 +12,7 @@
     * Developed the business case for the Human Capital Management program within Government frameworks
     * Developed and delivered presentations to key stakeholders and executives, driving better engagement.
 
-- layout: top-left
+- layout: left
   company: ContentLab
   link: https://contentlab.io/
   job_title: Enterprise Architect
@@ -25,7 +25,7 @@
     * Developed technical articles for publication on a variety of subjects, such as architecture principles, using AWS, machine learning and data cleaning in Python. 
 
 
-- layout: top-left
+- layout: left
   company: Department of Child Safety, Youth and Women
   link: https://www.csyw.qld.gov.au
   job_title: Enterprise Architect
@@ -40,7 +40,7 @@
     * Designed and deployed an identity broker using Azure AD and Azure B2C that secured an application to assist with finding missing children in care for Police.
     * Provide technical leadership through research, mentoring, knowledge sharing and improvement activities
 
-- layout: top-left
+- layout: left
   company: Queensland Government Chief Information Office
   link: https://www.qgcio.qld.gov.au
   job_title: Enterprise Architect
@@ -52,7 +52,7 @@
 
     * Lead the adoption of the citizen identity management system across Queensland Government departments.
 
-- layout: top-left
+- layout: left
   company: Department of Communities, Child Safety and Disability Services
   link: https://www.csyw.qld.gov.au
   jobs:
@@ -73,7 +73,7 @@
     * Saved spend on the phone system through implementing the first Unified Communications platform
     * Implemented a Retail Point of Sale (POS) system for remote communities that processes $25M+ in turnover
 
-- layout: top-left
+- layout: left
   company: Queensland Health
   link: https://www.health.qld.gov.au
   job_title: Oncology Systems Administrator
@@ -86,7 +86,7 @@
     * Developed documentation for a variety of aspects of the application and process, including ITIL based change processes, user training guides, maintenance plans and disaster recovery plans.
     * Delivered presentations on the use of the information system to large groups of clinicians, nurses and pharmacists.
 
-- layout: top-left
+- layout: left
   company: Various
   link: https://www.glennprince.com
   job_title: Network Administrator / IT Support

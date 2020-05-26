@@ -1,4 +1,4 @@
-- layout: top-middle
+- layout: left
   name: Discord Bot
   link: www.glennprince.com/blog/creating-a-discord-bot-part-01/
   github: GlennPrince/DNetBotTemplate
@@ -8,7 +8,7 @@
     A Simple Discord Bot using the Discord .NET Bot library and Dot Net Core. This bot is built with a microservices architecture using a range of Azure Services such as Functions, Table Storage, Queue Storage etc. I'm trying to build this bot in a modular fashion with the basic functionality provide and documented in such a way as to be expandable by others.
     For more information about the bot, and to follow it's progress, I am documenting it progress beginning with [a microservices discord bot - part 1](https://www.glennprince.com/blog/creating-a-discord-bot-part-01/).
 
-- layout: top-middle
+- layout: left
   name: Contact Form API
   link: https://www.glennprince.com/article/contact-form-using-azure-functions/
   github: GlennPrince/StaticWebFunctions
