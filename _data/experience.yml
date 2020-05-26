@@ -1,6 +1,6 @@
 - layout: top-middle
   company: Queensland Department of Education
-  link: education.qld.gov.au
+  link: https://education.qld.gov.au
   job_title: Enterprise Architect
   dates: October 2019 - Present
   quote: >
@@ -13,8 +13,21 @@
     * Developed and delivered presentations to key stakeholders and executives, driving better engagement.
 
 - layout: top-middle
+  company: ContentLab
+  link: https://contentlab.io/
+  job_title: Enterprise Architect
+  dates: June 2019 - Present
+  quote: > 
+   ContentLab is focused on delivering high-quality technical marketing materials, tutorials, marketing focused technical documentation, blogs, product support information and marketing-centric documentation.
+  description: | # this will include new lines to allow paragraphs
+    As an independent writer, I was responsible for developing technical articles and blog posts for clients on behalf of ContentLab on a contract for hire basis.
+    
+    * Developed technical articles for publication on a variety of subjects, such as architecture principles, using AWS, machine learning and data cleaning in Python. 
+
+
+- layout: top-middle
   company: Department of Child Safety, Youth and Women
-  link: www.csyw.qld.gov.au
+  link: https://www.csyw.qld.gov.au
   job_title: Enterprise Architect
   dates: June 2017 - July 2019
   quote: >
@@ -29,7 +42,7 @@
 
 - layout: top-middle
   company: Queensland Government Chief Information Office
-  link: www.qgcio.qld.gov.au
+  link: https://www.qgcio.qld.gov.au
   job_title: Enterprise Architect
   dates: January 2017 - June 2017
   quote: >
@@ -41,7 +54,7 @@
 
 - layout: top-middle
   company: Department of Communities, Child Safety and Disability Services
-  link: www.csyw.qld.gov.au
+  link: https://www.csyw.qld.gov.au
   jobs:
     - title: Enterprise Architect
       dates: May 2014 – January 2017
@@ -62,7 +75,7 @@
 
 - layout: top-middle
   company: Queensland Health
-  link: www.health.qld.gov.au
+  link: https://www.health.qld.gov.au
   job_title: Oncology Systems Administrator
   dates: August 2010 - October 2011
   quote: >
@@ -75,10 +88,11 @@
 
 - layout: top-middle
   company: Various
-  link: www.glennprince.com
+  link: https://www.glennprince.com
   job_title: Network Administrator / IT Support
   dates: December 1996 - August 2010
   quote: >
-   Variety of experience at other companies across Education, Manufacturing and Government
+   Variety of experience as a Network Administrator and IT Support person at in a number of enterprises across Education, Manufacturing and Government
   description: | # this will include new lines to allow paragraphs
-    IT Support and Network Administration roles over fourteen years on a variety of infrastructure including Windows, Linux, Solaris and Mac.
+    IT Support and Network Administration roles over fourteen years on a variety of infrastructure technologies and capabilities, including general networking, e-mail systems, manufacturing systems, Citrix and other infrastructure capabilities.
+
