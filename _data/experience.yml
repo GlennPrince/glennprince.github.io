@@ -1,4 +1,4 @@
-- layout: top-middle
+- layout: top-right
   company: Queensland Department of Education
   link: https://education.qld.gov.au
   job_title: Enterprise Architect
@@ -12,7 +12,7 @@
     * Developed the business case for the Human Capital Management program within Government frameworks
     * Developed and delivered presentations to key stakeholders and executives, driving better engagement.
 
-- layout: top-middle
+- layout: top-left
   company: ContentLab
   link: https://contentlab.io/
   job_title: Enterprise Architect
