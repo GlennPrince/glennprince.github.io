@@ -33,7 +33,7 @@
   quote: >
    The Department provides care and support for the children and youth of Queensland.
   description: | # this will include new lines to allow paragraphs
-    Reporting to the Director of the Unify Program, I was responsible for developing the architecture and roadmap for the replacement of the Department’s client and case management system.
+    Reporting to the Director of the Unify Program, I was responsible for developing the architecture and road-map for the replacement of the Department’s client and case management system.
 
     * Designed the architecture for a $50M client and case management system for Child Services and Youth Justice.
     * Transformed IT operations, reducing manual process and improving efficiency, through the championing and adoption of a DevOps practice using the existing Azure based cloud computing environment.
