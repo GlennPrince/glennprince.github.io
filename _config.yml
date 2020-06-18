@@ -13,6 +13,16 @@ twitter_username: Glenn_Prince
 github_username:  GlennPrince
 linkedin_username: glennprince
 
+additional_links:
+- title: Code Project Articles
+  icon: fa-code
+  url: https://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=14351928
+
+additional_links:
+- title: My Website
+  icon: fa-globe-americas
+  url: https://www.glennprince.com
+
 # Google Analytics and Tag Manager
 google_analytics: "UA-109834315-2"
 
@@ -35,6 +45,7 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in technology and software engineering some of my other interests and hobbies are:
+   - Hiking and Exploring
    - Soccer
    - Gaming
    - Movies

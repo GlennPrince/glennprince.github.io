@@ -6,7 +6,7 @@
   quote: >
    The Department provides education and support for the children and youth of Queensland. 
   description: | # this will include new lines to allow paragraphs
-    Reporting to the Director of the Human Capital Management Program, I was responsible for developing the conceptual architecture and roadmap for the development of the Department's Human Capital Management System.
+    Reporting to the Director of the Human Capital Management Program, I was responsible for developing the conceptual architecture and road-map for the development of the Department's Human Capital Management System.
 
     * Developed the Human Capital Management architecture, decommissioning over 20 legacy applications, rationalizing the portfolio, and driving service redesign across the Human Resources branch.
     * Developed the business case for the Human Capital Management program within Government frameworks
@@ -22,7 +22,7 @@
   description: | # this will include new lines to allow paragraphs
     As an independent writer, I was responsible for developing technical articles and blog posts for clients on behalf of ContentLab on a contract for hire basis.
     
-    * Developed technical articles for publication on a variety of subjects, such as architecture principles, using AWS, machine learning and data cleaning in Python. 
+    * Developed technical articles for publication on a variety of subjects, such as architecture principles, using AWS, machine learning and data cleaning in Python [(Posted on CodeProject)](https://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=14351928). 
 
 
 - layout: left
@@ -63,7 +63,7 @@
   quote: >
    The Department provides care and support for the children, youth, disabled and communities of Queensland.
   description: | # this will include new lines to allow paragraphs
-    Reporting to the manager of Enterprise Architecture, I was responsible for developing enterprise and solution architectures, roadmaps and designs as well as provide technical advice to projects across the PRINCE2 lifecycle.
+    Reporting to the manager of Enterprise Architecture, I was responsible for developing enterprise and solution architectures, road-maps and designs as well as provide technical advice to projects across the PRINCE2 lifecycle.
 
     * Reduced support calls and received the Idea's into Action award for designing and implementing a system to automate processes, integrate Human Resources data and provide self-service password reset
     * Reduced print and imaging costs by designing and implementing a print and electronic fax service
@@ -89,10 +89,48 @@
 - layout: left
   company: Various
   link: https://www.glennprince.com
-  job_title: Network Administrator / IT Support
-  dates: December 1996 - August 2010
+  job_title: Senior IT Support Officer
+  dates: January 2008 - August 2010
   quote: >
-   Variety of experience as a Network Administrator and IT Support person at in a number of enterprises across Education, Manufacturing and Government
+   Department of Communities provides community support and care to the venerable citizens of Queensland
   description: | # this will include new lines to allow paragraphs
-    IT Support and Network Administration roles over fourteen years on a variety of infrastructure technologies and capabilities, including general networking, e-mail systems, manufacturing systems, Citrix and other infrastructure capabilities.
+    Reporting to the manager of Infrastructure Operations, I was responsible for developing infrastructure architectures and designs as well as provide technical advice and implementation support to projects across the PRINCE2 lifecycle.
 
+    *	Migrated systems as part of a merger activity while minimizing the impact to the end user.
+    * Maintained and supported the departmental Windows Server 2000 / 2003 environment including an Active Directory Infrastructure, Group Policies, DHCP, DNS and other domain services.
+    * Maintained and supported Internet services in a Government environment, including email and web filtering, mail relay server, virus scanning and a Microsoft Exchange server. 
+    *	Maintained and supported a Windows Server 2000 / 2003 environment including an Active Directory Infrastructure, Group Policies, DHCP, DNS and other domain services.
+    *	Planned, installed, maintained and supported a HP TRIM record keeping environment used for Departmental Records and Correspondence.
+
+- layout: left
+  company: Sealy of Australia
+  link: https://www.sealy.com.au
+  job_title: Network Administrator
+  dates: April 2001 - January 2008
+  quote: >
+   Sealy of Australia is the manufacturing of bedding products for the Australian and Asian market.
+  description: | # this will include new lines to allow paragraphs
+    Reporting to the CIO, I was responsible for the administration and support of the Company's network and server infrastructure
+
+    * Implemented and supported a Citrix farm across three offices in three different states.
+    * Supported a Solaris database and additional application servers, including optimization and bash scripting automation.
+    * Planned, implemented and supported remote access services, including IPSEC clients, VPN tunnels, Blackberry services for mobile users and IAS authentication for laptop users.
+    * Planned, implemented and supported Internet services in a corporate environment, including email and web filtering, mail relay server, virus scanning and a Microsoft Exchange server. 
+    * Planned implemented and supported a RightFax Server Instance for marketing purposed and statistical reporting from an SQL database.
+
+
+- layout: left
+  company: St. Augustines College
+  link: https://www.glennprince.com
+  job_title: IT Support
+  dates: December 1996 - December 2000
+  quote: >
+   IT Support, administration, expansion and maintenance of a LAN consisting of 150 – 200 computers.
+  description: | # this will include new lines to allow paragraphs
+    Reporting to the Head of the IT Department, I was responsible for maintaining servers and workstations in a Windows NT4.0 network, including computer workstations running NT workstation, Windows 95, 98 and Macintosh OS7.x machines.
+
+    * Performed server maintenance and client roll-outs with minimal down time and minimal user impact
+    * Directed Students and provided training for small groups and individuals
+    * Provided user support via face-to-face and phone communication
+    * Designed and created small custom databases in MS Access to solve business problems
+    * Rolled out groups of computers for the upgrade of computer laboratories
