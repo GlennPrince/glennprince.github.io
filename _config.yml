@@ -15,12 +15,11 @@ linkedin_username: glennprince
 
 additional_links:
 - title: Code Project Articles
-  icon: fa-code
+  icon: fas fa-code
   url: https://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=14351928
 
-additional_links:
 - title: My Website
-  icon: fa-globe-americas
+  icon: fas fa-globe-americas
   url: https://www.glennprince.com
 
 # Google Analytics and Tag Manager
