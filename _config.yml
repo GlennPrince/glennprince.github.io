@@ -30,13 +30,218 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Glenn. I am an experienced, pragmatic Solutions Architect that has helped organisations with transformative projects for the last few years. With diverse experience across development and infrastructure, I am passionate about learning new technologies and solving complex problems. I enjoy writing about my experiences and pretending to know how to code.
 
 # Experience Section
-# experience_title: Experience
+content:
+  - title: Experience
+    layout: list
+    content: 
+    - layout: left
+      company: Adswerve
+      link: https://adswerve.com
+      job_title: Director of IT Operations
+      dates: October 2020 - September 2021
+      quote: >
+        Adswerve, the leading Google Marketing, Analytics and Cloud partner, works with agencices analysts, marketers and publishers to implement and leverage the full breadth of the Google Marketing Platform and Google Cloud. 
+      description: | # this will include new lines to allow paragraphs
+        As the Director of IT Operations I am responsible for leading a team of IT professionals, across IT support and operations. Working closely with stakeholders across the organization as well as the leadership team, I support the organization's strategic objectives through streamlining processes, communicating consistently and frequently, building trust across the organization and assisting leadership by providing direction across teams. 
 
-# Education Section
-# educaton_title: Education
+        * Lead IT initiatives and coordinate the evaluation, deployment, and management of current and future systems as well as associated operational functions.
+        * Translate objectives into strategic plans in those areas that impact IT Operations
+        * Clearly articulate the business architecture (mission/vision, capability models, capability assessments) and technical architecture (current and future state diagrams, solution best practices, reference architectures, design patterns) to accurately inform decision makers.
+        * Contribute to organizational change through the research, recommendation and implementation of IT practices and systems to increase the quality and reliability of client services, employee productivity, and operational efficiency.
+        * Implement policies and procedures, technical standards, methodologies, and set priorities for IT Operations.
+        * Accountable for production IT SaaS platforms and the Google Cloud Platform environments
+        * Manage and implement security strategy, governance, risk and policies
+        * Oversee daily operations and end-user support for internal customers
+        * Assist in the preparation and monitoring of IT operational budgets.
+        * Oversee vendors and managed service agreements for IT services. 
+        * Coach, develop, and empower team members
 
-# Projects Section
-# projects_title: Projects
+    - layout: left
+      company: ContentLab
+      link: https://contentlab.io/
+      job_title: Technical Writer
+      dates: June 2019 - Present
+      quote: > 
+        ContentLab is focused on delivering high-quality technical marketing materials, tutorials, marketing focused technical documentation, blogs, product support information and marketing-centric documentation.
+      description: | # this will include new lines to allow paragraphs
+        As an independent writer, I was responsible for developing technical articles and blog posts for clients on behalf of ContentLab on a contract for hire basis.
+        
+        * Developed technical articles for publication on a variety of subjects, such as architecture principles, using AWS, machine learning and data cleaning in Python [(Posted on CodeProject)](https://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=14351928). 
+
+    - layout: left
+      company: Adswerve
+      link: https://adswerve.com
+      job_title: Technical Architect
+      dates: October 2020 - September 2021
+      quote: >
+        Adswerve, the leading Google Marketing, Analytics and Cloud partner, works with agencices analysts, marketers and publishers to implement and leverage the full breadth of the Google Marketing Platform and Google Cloud. 
+      description: | # this will include new lines to allow paragraphs
+        As a Technical Architect of integration, I am responsible for the design, implementation and management of integration pipelines between systems.
+
+        * Define, develop and manage integration pipelines between critical business systems to ensure data and processes are seamlessly integrated
+        * Work with projects to define requirements and evaluate solutions that can be integrated into the organizations ecosystem
+        * Collaborate and influence teams to adopt structured, standardized processes.
+        * Provide technical leadership and peer support through research, mentoring, knowledge sharing and technical improvement activities
+
+    - layout: left
+      company: Queensland Department of Education
+      link: https://education.qld.gov.au
+      job_title: Enterprise Architect
+      dates: October 2019 - July 2020
+      quote: >
+        The Department provides education and support for the children and youth of Queensland. 
+      description: | # this will include new lines to allow paragraphs
+        Reporting to the Director of the Human Capital Management Program, I was responsible for developing the conceptual architecture and road-map for the development of the Department's Human Capital Management System.
+
+        * Developed the Human Capital Management architecture, decommissioning over 20 legacy applications, rationalizing the portfolio, and driving service redesign across the Human Resources branch.
+        * Developed the business case for the Human Capital Management program within Government frameworks
+        * Developed and delivered presentations to key stakeholders and executives, driving better engagement.
+
+    - layout: left
+      company: Department of Child Safety, Youth and Women
+      link: https://www.csyw.qld.gov.au
+      job_title: Enterprise Architect
+      dates: June 2017 - July 2019
+      quote: >
+        The Department provides care and support for the children and youth of Queensland.
+      description: | # this will include new lines to allow paragraphs
+        Reporting to the Director of the Unify Program, I was responsible for developing the architecture and road-map for the replacement of the Department’s client and case management system.
+
+        * Designed the architecture for a $50M client and case management system for Child Services and Youth Justice.
+        * Transformed IT operations, reducing manual process and improving efficiency, through the championing and adoption of a DevOps practice using the existing Azure based cloud computing environment.
+        * Designed and deployed an identity broker using Azure AD and Azure B2C that secured an application to assist with finding missing children in care for Police.
+        * Provide technical leadership through research, mentoring, knowledge sharing and improvement activities
+
+    - layout: left
+      company: Queensland Government Chief Information Office
+      link: https://www.qgcio.qld.gov.au
+      job_title: Enterprise Architect
+      dates: January 2017 - June 2017
+      quote: >
+        The QGCIO provides direction and support across all Queensland Government agencies.
+      description: | # this will include new lines to allow paragraphs
+        Reporting to the Director of Enterprise Architecture, I was responsible for the identity and access management architecture across government.
+
+        * Lead the adoption of the citizen identity management system across Queensland Government departments.
+
+    - layout: left
+      company: Department of Communities, Child Safety and Disability Services
+      link: https://www.csyw.qld.gov.au
+      jobs:
+        - title: Enterprise Architect
+          dates: May 2014 – January 2017
+        - title: Infrastructure Architect
+          dates: October 2011 – May 2014
+      quote: >
+        The Department provides care and support for the children, youth, disabled and communities of Queensland.
+      description: | # this will include new lines to allow paragraphs
+        Reporting to the manager of Enterprise Architecture, I was responsible for developing enterprise and solution architectures, road-maps and designs as well as provide technical advice to projects across the PRINCE2 lifecycle.
+
+        * Reduced support calls and received the Idea's into Action award for designing and implementing a system to automate processes, integrate Human Resources data and provide self-service password reset
+        * Reduced print and imaging costs by designing and implementing a print and electronic fax service
+        * Developed a Christmas Appeal donations application in ASP.NET used to track over 10,000 yearly donations
+        * Be a technical consultant for the Department, providing expert advice, particularly within Identity Management
+        * Designed the organization’s first Enterprise Service Bus, improving integration across the application portfolio
+        * Saved spend on the phone system through implementing the first Unified Communications platform
+        * Implemented a Retail Point of Sale (POS) system for remote communities that processes $25M+ in turnover
+
+    - layout: left
+      company: Queensland Health
+      link: https://www.health.qld.gov.au
+      job_title: Oncology Systems Administrator
+      dates: August 2010 - October 2011
+      quote: >
+        Queensland Health provides medical care and support for the citizens of Queensland. The Oncology Department provides medical and radiation therapy to cancer patients.
+      description: | # this will include new lines to allow paragraphs
+        Reporting to the Director of Cancer Control Team, I was responsible for the administration and support of the Departments Medical Oncology treatment system.
+        
+        * Developed documentation for a variety of aspects of the application and process, including ITIL based change processes, user training guides, maintenance plans and disaster recovery plans.
+        * Delivered presentations on the use of the information system to large groups of clinicians, nurses and pharmacists.
+
+    - layout: left
+      company: Department of Communities
+      link: https://www.communities.qld.gov.au
+      job_title: Senior IT Support Officer
+      dates: January 2008 - August 2010
+      quote: >
+        Department of Communities provides community support and care to the venerable citizens of Queensland
+      description: | # this will include new lines to allow paragraphs
+        Reporting to the manager of Infrastructure Operations, I was responsible for developing infrastructure architectures and designs as well as provide technical advice and implementation support to projects across the PRINCE2 lifecycle.
+
+        *	Migrated systems as part of a merger activity while minimizing the impact to the end user.
+        * Maintained and supported the departmental Windows Server 2000 / 2003 environment including an Active Directory Infrastructure, Group Policies, DHCP, DNS and other domain services.
+        * Maintained and supported Internet services in a Government environment, including email and web filtering, mail relay server, virus scanning and a Microsoft Exchange server. 
+        *	Maintained and supported a Windows Server 2000 / 2003 environment including an Active Directory Infrastructure, Group Policies, DHCP, DNS and other domain services.
+        *	Planned, installed, maintained and supported a HP TRIM record keeping environment used for Departmental Records and Correspondence.
+
+    - layout: left
+      company: Sealy of Australia
+      link: https://www.sealy.com.au
+      job_title: Network Administrator
+      dates: April 2001 - January 2008
+      quote: >
+        Sealy of Australia is the manufacturing of bedding products for the Australian and Asian market.
+      description: | # this will include new lines to allow paragraphs
+        Reporting to the CIO, I was responsible for the administration and support of the Company's network and server infrastructure
+
+        * Implemented and supported a Citrix farm across three offices in three different states.
+        * Supported a Solaris database and additional application servers, including optimization and bash scripting automation.
+        * Planned, implemented and supported remote access services, including IPSEC clients, VPN tunnels, Blackberry services for mobile users and IAS authentication for laptop users.
+        * Planned, implemented and supported Internet services in a corporate environment, including email and web filtering, mail relay server, virus scanning and a Microsoft Exchange server. 
+        * Planned implemented and supported a RightFax Server Instance for marketing purposed and statistical reporting from an SQL database.
+
+    - layout: left
+      company: St. Augustines College
+      link: https://www.glennprince.com
+      job_title: IT Support
+      dates: December 1996 - December 2000
+      quote: >
+        IT Support, administration, expansion and maintenance of a LAN consisting of 150 – 200 computers.
+      description: | # this will include new lines to allow paragraphs
+        Reporting to the Head of the IT Department, I was responsible for maintaining servers and workstations in a Windows NT4.0 network, including computer workstations running NT workstation, Windows 95, 98 and Macintosh OS7.x machines.
+
+        * Performed server maintenance and client roll-outs with minimal down time and minimal user impact
+        * Directed Students and provided training for small groups and individuals
+        * Provided user support via face-to-face and phone communication
+        * Designed and created small custom databases in MS Access to solve business problems
+        * Rolled out groups of computers for the upgrade of computer laboratories
+
+    # Projects Section
+  - title: Projects
+    layout: list
+    content: 
+    - layout: top-middle
+      name: Discord Bot
+      link: www.glennprince.com/blog/creating-a-discord-bot-part-01/
+      github: GlennPrince/DNetBotTemplate
+      quote: >
+        A Discord Bot built using a micro-services architecture on as much serverless components as possible.
+      description: | # this will include new lines to allow paragraphs
+        A Simple Discord Bot using the Discord .NET Bot library and Dot Net Core. This bot is built with a microservices architecture using a range of Azure Services such as Functions, Table Storage, Queue Storage etc. I'm trying to build this bot in a modular fashion with the basic functionality provide and documented in such a way as to be expandable by others.
+        For more information about the bot, and to follow it's progress, I am documenting it progress beginning with [a microservices discord bot - part 1](https://www.glennprince.com/blog/creating-a-discord-bot-part-01/).
+
+    - layout: top-middle
+      name: Contact Form API
+      link: https://www.glennprince.com/article/contact-form-using-azure-functions/
+      github: GlennPrince/StaticWebFunctions
+      quote: >
+        A simple contact form API built on Azure Functions for my static website
+      description: | # this will include new lines to allow paragraphs
+        This is a simple API I built using Azure Functions to add contact form functionality to my static website.
+
+    # Education Section
+  - title: Education
+    layout: list
+    content: 
+    - layout: left
+      name: Deakin University
+      dates: 2016 - 2019
+      qualification: BSc Information Technology
+      quote: >
+        With over 40 years of experience as one of Australia's leading tertiary education providers, Deakin has won numerous awards and teaches over 60,000 students each year.
+      description: | # this will include new lines to allow paragraphs
+        After working most of my life in Administrator or Architect roles focused on infrastructure, I decided to go back to University and complete by Bachelor of Information Technology. Learning a lof ot the theory and plugging the gaps in my knowledge was a really great experience.
+
 
 # More Section
 # more_title: A Little More About Me
@@ -60,3 +265,5 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+darkmode: false
