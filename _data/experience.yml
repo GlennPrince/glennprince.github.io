@@ -1,21 +1,29 @@
 - layout: left
-  company: Queensland Department of Education
-  link: https://education.qld.gov.au
-  job_title: Enterprise Architect
-  dates: October 2019 - Present
+  company: Adswerve
+  link: https://adswerve.com
+  job_title: Director of IT Operations
+  dates: October 2020 - September 2021
   quote: >
-   The Department provides education and support for the children and youth of Queensland. 
+   Adswerve, the leading Google Marketing, Analytics and Cloud partner, works with agencices analysts, marketers and publishers to implement and leverage the full breadth of the Google Marketing Platform and Google Cloud. 
   description: | # this will include new lines to allow paragraphs
-    Reporting to the Director of the Human Capital Management Program, I was responsible for developing the conceptual architecture and road-map for the development of the Department's Human Capital Management System.
+    As the Director of IT Operations I am responsible for leading a team of IT professionals, across IT support and operations. Working closely with stakeholders across the organization as well as the leadership team, I support the organization's strategic objectives through streamlining processes, communicating consistently and frequently, building trust across the organization and assisting leadership by providing direction across teams. 
 
-    * Developed the Human Capital Management architecture, decommissioning over 20 legacy applications, rationalizing the portfolio, and driving service redesign across the Human Resources branch.
-    * Developed the business case for the Human Capital Management program within Government frameworks
-    * Developed and delivered presentations to key stakeholders and executives, driving better engagement.
+    * Lead IT initiatives and coordinate the evaluation, deployment, and management of current and future systems as well as associated operational functions.
+    * Translate objectives into strategic plans in those areas that impact IT Operations
+    * Clearly articulate the business architecture (mission/vision, capability models, capability assessments) and technical architecture (current and future state diagrams, solution best practices, reference architectures, design patterns) to accurately inform decision makers.
+    * Contribute to organizational change through the research, recommendation and implementation of IT practices and systems to increase the quality and reliability of client services, employee productivity, and operational efficiency.
+    * Implement policies and procedures, technical standards, methodologies, and set priorities for IT Operations.
+    * Accountable for production IT SaaS platforms and the Google Cloud Platform environments
+    * Manage and implement security strategy, governance, risk and policies
+    * Oversee daily operations and end-user support for internal customers
+    * Assist in the preparation and monitoring of IT operational budgets.
+    * Oversee vendors and managed service agreements for IT services. 
+    * Coach, develop, and empower team members
 
 - layout: left
   company: ContentLab
   link: https://contentlab.io/
-  job_title: Enterprise Architect
+  job_title: Technical Writer
   dates: June 2019 - Present
   quote: > 
    ContentLab is focused on delivering high-quality technical marketing materials, tutorials, marketing focused technical documentation, blogs, product support information and marketing-centric documentation.
@@ -24,6 +32,34 @@
     
     * Developed technical articles for publication on a variety of subjects, such as architecture principles, using AWS, machine learning and data cleaning in Python [(Posted on CodeProject)](https://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=14351928). 
 
+- layout: left
+  company: Adswerve
+  link: https://adswerve.com
+  job_title: Technical Architect
+  dates: October 2020 - September 2021
+  quote: >
+   Adswerve, the leading Google Marketing, Analytics and Cloud partner, works with agencices analysts, marketers and publishers to implement and leverage the full breadth of the Google Marketing Platform and Google Cloud. 
+  description: | # this will include new lines to allow paragraphs
+    As a Technical Architect of integration, I am responsible for the design, implementation and management of integration pipelines between systems.
+
+    * Define, develop and manage integration pipelines between critical business systems to ensure data and processes are seamlessly integrated
+    * Work with projects to define requirements and evaluate solutions that can be integrated into the organizations ecosystem
+    * Collaborate and influence teams to adopt structured, standardized processes.
+    * Provide technical leadership and peer support through research, mentoring, knowledge sharing and technical improvement activities
+
+- layout: left
+  company: Queensland Department of Education
+  link: https://education.qld.gov.au
+  job_title: Enterprise Architect
+  dates: October 2019 - July 2020
+  quote: >
+   The Department provides education and support for the children and youth of Queensland. 
+  description: | # this will include new lines to allow paragraphs
+    Reporting to the Director of the Human Capital Management Program, I was responsible for developing the conceptual architecture and road-map for the development of the Department's Human Capital Management System.
+
+    * Developed the Human Capital Management architecture, decommissioning over 20 legacy applications, rationalizing the portfolio, and driving service redesign across the Human Resources branch.
+    * Developed the business case for the Human Capital Management program within Government frameworks
+    * Developed and delivered presentations to key stakeholders and executives, driving better engagement.
 
 - layout: left
   company: Department of Child Safety, Youth and Women
