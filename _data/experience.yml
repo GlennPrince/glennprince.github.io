@@ -1,4 +1,51 @@
 - layout: left
+  company: Queensland University of Technology
+  link: https://www.qut.edu.au
+  job_title: Solution Architect
+  dates: February 2026 - Ongoing
+  quote: >
+    Queensland University of Technology (QUT) is a major Australian university offering a wide range of undergraduate and postgraduate programs across various disciplines, including business, engineering, health, science, and creative industries.
+  description: | # this will include new lines to allow paragraphs
+    As the Solution Architect for the Time and Attendance project, I am responsible for the solution and technical components of a new time and attendance system that meets the needs of the university's staff.
+
+- layout: left
+  company: Department of Youth Justice, Queensland Government
+  link: https://www.csyw.qld.gov.au
+  job_title: Solution Architect
+  dates: November 2025 - February 2026
+  quote: >
+   Department of Youth Justice, Queensland Government
+  description: | # this will include new lines to allow paragraphs
+    As the Solution Architect, I worked with various teams to design IT solutions that align with the organization's strategic goals.
+
+    * Gathered and defined requirements, benefits and built the business cases for the Youth Trust Management Replacement Project, Inventory and Equipment Management Project and the Visitor Management Project.
+    * Performed assessments of technology solutions as part of the at risk reporting process
+    * Drafted the AI strategy framework to guide senior stakeholders in the responsible adoption of AI technologies across the organization.
+
+- layout: left
+  company: Adswerve
+  link: https://adswerve.com
+  job_title: Director of IT Operations
+  dates: September 2021 - October 2025
+  quote: >
+   Adswerve, the leading Google Marketing, Analytics and Cloud partner, works with agencices analysts, marketers and publishers to implement and leverage the full breadth of the Google Marketing Platform and Google Cloud. 
+  description: | # this will include new lines to allow paragraphs
+    As the Director of the newly formed IT Operations group, I worked with the cloud engineers, system administrators and support staff within the IT Operations team at Adswerve, collaborating with stakeholders across the organization to define and implement the IT strategy, refining operations, securing information, and leading operational improvement projects.
+
+    * Established the Information Security improvement program delivering a number of key components across the organization, including:
+    * Developed the cybersecurity strategy and roadmap, aligned to business objectives, to increase the organizations security maturity.
+    * Performed a gap analysis and wrote additional security policies to bring the organization in line with the ISO 27001 framework.
+    * Built and tested the risk management framework and security incident management plan.
+    * Implemented multiple technical controls to reduce organization risk, including Google Chronicle, OpenVPN, 1Password, Single Sign On and Global Load Balancers.
+    * Developed the company's internal AI strategy and AI framework with C-Suite stakeholders, deploying aligned AI tools across the organization to improve productivity.
+    * Designed the strategy and led the project to rebuild the internal media billing system to significantly reduce the amount of manual billing processes.
+    * Expanded integrations to automate processes and added additional data extraction pipelines for Asana, Harvest, HubSpot, UltiPro/UKG and Helpdesk systems.
+    * Built the data pipelines and warehouses for the Sales, Marketing, HR and Project functions using the new data pipelines.
+    * Established and run the internal architecture group that provided clear strategic direction of IT initiatives across the organization, improving solution consistency.
+    * Managed IT Operational Costs, Vendors, Managed Services, SaaS platform licenses and reduced spend across the environment
+    * Directed and mentored IT Operations team, fostering a culture of accountability and excellence.
+
+- layout: left
   company: Adswerve
   link: https://adswerve.com
   job_title: Director of IT Operations
@@ -6,19 +53,15 @@
   quote: >
    Adswerve, the leading Google Marketing, Analytics and Cloud partner, works with agencices analysts, marketers and publishers to implement and leverage the full breadth of the Google Marketing Platform and Google Cloud. 
   description: | # this will include new lines to allow paragraphs
-    As the Director of IT Operations I am responsible for leading a team of IT professionals, across IT support and operations. Working closely with stakeholders across the organization as well as the leadership team, I support the organization's strategic objectives through streamlining processes, communicating consistently and frequently, building trust across the organization and assisting leadership by providing direction across teams. 
+    As a Technical Architect of integration, I am responsible for the design, implementation and management of internal solutions on the Google Cloud environment and integration pipelines between systems.
 
-    * Lead IT initiatives and coordinate the evaluation, deployment, and management of current and future systems as well as associated operational functions.
-    * Translate objectives into strategic plans in those areas that impact IT Operations
-    * Clearly articulate the business architecture (mission/vision, capability models, capability assessments) and technical architecture (current and future state diagrams, solution best practices, reference architectures, design patterns) to accurately inform decision makers.
-    * Contribute to organizational change through the research, recommendation and implementation of IT practices and systems to increase the quality and reliability of client services, employee productivity, and operational efficiency.
-    * Implement policies and procedures, technical standards, methodologies, and set priorities for IT Operations.
-    * Accountable for production IT SaaS platforms and the Google Cloud Platform environments
-    * Manage and implement security strategy, governance, risk and policies
-    * Oversee daily operations and end-user support for internal customers
-    * Assist in the preparation and monitoring of IT operational budgets.
-    * Oversee vendors and managed service agreements for IT services. 
-    * Coach, develop, and empower team members
+    * Led the implementation of the Integration platform and built the data extraction pipelines from Netsuite into Google BigQuery.
+    * Developed the SQL based data pipelines that combined client financial data (invoices, payments) used within the client information portal.
+    * Collaborated with key stakeholders to develop the architecture for product and service project, and led the Salesforce CPQ implementation, improving quoting and onboarding of clients.
+    * Enhanced the time tracking solution to reduce the manual processes used to bill client time.
+    * Provided technical support and management of the QuickBooks to NetSuite Migration
+    * Led the migration for the infrastructure and systems of three separate acquisitions
+    * Managed the Google Cloud infrastructure, including domain, DNS, certificates, identity and access management, cloud functions and virtual machines
 
 - layout: left
   company: ContentLab
